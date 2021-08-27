@@ -1,0 +1,2 @@
+C:\Users\donal\source\repos\test\x64\Debug\test.exe
+D:\Documents\CS\C++ or smthn\test\x64\Debug\test.exe

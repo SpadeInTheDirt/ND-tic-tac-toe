@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Documents\CS\C++ or smthn\test\Source.cpp(58,35): warning C4101: 'e': unreferenced local variable
+  test.vcxproj -> D:\Documents\CS\C++ or smthn\test\x64\Debug\test.exe
